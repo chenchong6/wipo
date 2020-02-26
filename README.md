@@ -2,7 +2,7 @@
 
 >  说明
   ```html
-<center>wipo接口限速限并发性，本接口只提供<font cololr="red">返回的加密值</font>,查询请自便。</center>
+            wipo接口限速限并发性，本接口只提供<font color="red">返回的加密值</font>,查询请自便。
   ```
 ---
 > query_word:提供查询关键词 
