@@ -8,7 +8,9 @@
 
 ###1. example
 > 参考example.py    
+> 返回加密后数据
 ---
 ###2. result
 > 参考result.py
+> 返回查询结果
 ---
