@@ -7,10 +7,10 @@
 ---
 
 ### 1. [example](https://github.com/chenchong6/wipo/blob/master/example.py)
-> 参考example.py    
+> 参考[example](https://github.com/chenchong6/wipo/blob/master/example.py).py    
 > 返回加密后数据
 ---
 ### 2. [result](https://github.com/chenchong6/wipo/blob/master/result.py)
-> 参考result.py
+> 参考[result](https://github.com/chenchong6/wipo/blob/master/result.py).py
 > 返回查询结果
 ---
