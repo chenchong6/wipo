@@ -18,4 +18,4 @@
 > 参考[result.py](https://github.com/chenchong6/wipo/blob/master/result.py)
 > 返回查询结果
 ---
-> 本文档只供研究使用。
+### 3. 本文档只供研究使用。
